@@ -30,12 +30,12 @@ app.get('/register', async(req, res) => {
     }
 })
 
-app.post('/login', (req, res) => {
+// app.post('/login', (req, res) => {
     
-})
+// })
 
-app.post('/register', (req, res) => {
+// app.post('/register', (req, res) => {
 
-})
+// })
 
 app.listen(3000)
